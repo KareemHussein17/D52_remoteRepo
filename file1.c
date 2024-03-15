@@ -4,6 +4,11 @@
 
 int main()
 {
-	printf("fisrt version of D52");
+	int xl;
+	char t;
+	float y;
+	
+	
+	
 	return 0;
 }
